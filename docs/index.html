@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JRE優待店 駅ビル検索</title>
+<style>
+  :root {
+    --accent: #2f5597;
+    --bg: #f7f8fa;
+    --card: #ffffff;
+    --border: #e0e3e8;
+    --text: #1a1c1f;
+    --muted: #6b7280;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    background: var(--accent);
+    color: #fff;
+    padding: 20px 16px;
+  }
+  header h1 {
+    margin: 0 0 4px;
+    font-size: 1.3rem;
+  }
+  header p {
+    margin: 0;
+    font-size: 0.85rem;
+    opacity: 0.9;
+  }
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 16px;
+  }
+  .controls {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px;
+    margin-bottom: 16px;
+    display: grid;
+    gap: 12px;
+  }
+  .row {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .field {
+    flex: 1;
+    min-width: 140px;
+  }
+  label {
+    display: block;
+    font-size: 0.75rem;
+    color: var(--muted);
+    margin-bottom: 4px;
+  }
+  select, input[type="text"] {
+    width: 100%;
+    padding: 8px 10px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 0.95rem;
+    background: #fff;
+  }
+  input[type="text"] {
+    font-size: 1rem;
+  }
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    padding: 4px 10px;
+    border-radius: 14px;
+    background: #eef1f6;
+    border: 1px solid var(--border);
+    font-size: 0.75rem;
+    color: var(--muted);
+  }
+  .result-count {
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin: 4px 0 10px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  thead th {
+    text-align: left;
+    background: #eef1f6;
+    padding: 10px 12px;
+    font-size: 0.8rem;
+    color: var(--muted);
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+  }
+  tbody td {
+    padding: 9px 12px;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.9rem;
+  }
+  tbody tr:hover {
+    background: #f5f8fc;
+  }
+  .genre-tag {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 10px;
+    background: #e7eefb;
+    color: var(--accent);
+    font-size: 0.78rem;
+    white-space: nowrap;
+    margin: 1px 2px 1px 0;
+  }
+  .clear-btn {
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 8px 14px;
+    cursor: pointer;
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+  .clear-btn:hover {
+    background: #eef1f6;
+  }
+  .empty {
+    text-align: center;
+    padding: 40px 0;
+    color: var(--muted);
+  }
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.75rem;
+    padding: 24px 0;
+  }
+  @media (max-width: 600px) {
+    table, thead, tbody, th, td, tr { display: block; }
+    thead { display: none; }
+    tbody tr {
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      margin-bottom: 8px;
+      padding: 6px 0;
+    }
+    tbody td {
+      border-bottom: none;
+      padding: 4px 12px;
+    }
+    tbody td::before {
+      content: attr(data-label);
+      display: inline-block;
+      width: 64px;
+      color: var(--muted);
+      font-size: 0.72rem;
+    }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>JRE優待店 駅ビル検索</h1>
+  <p>品川・川崎・横浜駅の駅ビル内テナントを、駅・施設・ジャンル・フリーワードで検索できます</p>
+</header>
+<div class="container">
+  <div class="controls">
+    <div class="row">
+      <div class="field">
+        <label for="station">駅</label>
+        <select id="station"><option value="">すべて</option></select>
+      </div>
+      <div class="field">
+        <label for="building">施設名</label>
+        <select id="building"><option value="">すべて</option></select>
+      </div>
+      <div class="field">
+        <label for="genre">タグ</label>
+        <select id="genre"><option value="">すべて</option></select>
+      </div>
+    </div>
+    <div class="row">
+      <div class="field" style="flex: 3;">
+        <label for="q">フリーワード検索（店舗名・ジャンル・施設名）</label>
+        <input type="text" id="q" placeholder="例: ユニクロ / 子供服 / メガネ">
+      </div>
+      <div class="field" style="flex: 0 0 auto; align-self: flex-end;">
+        <button class="clear-btn" id="clear">条件をクリア</button>
+      </div>
+    </div>
+  </div>
+  <div class="result-count" id="count"></div>
+  <table id="resultTable">
+    <thead>
+      <tr><th>駅</th><th>施設名</th><th>フロア</th><th>タグ</th><th>店舗名</th></tr>
+    </thead>
+    <tbody id="resultBody"></tbody>
+  </table>
+  <div id="emptyMsg" class="empty" style="display:none;">該当する店舗が見つかりませんでした。</div>
+</div>
+<footer>JRE CARD/JRE POINT優待店情報をもとに作成した非公式の参考資料です。最新情報は各施設公式サイトをご確認ください。</footer>
+
+<script>
+let DATA = [];
+
+async function init() {
+  const res = await fetch('data.json');
+  DATA = await res.json();
+
+  const stations = [...new Set(DATA.map(d => d.station))].sort();
+  const stationSel = document.getElementById('station');
+  stations.forEach(s => {
+    const opt = document.createElement('option');
+    opt.value = s; opt.textContent = s + '駅';
+    stationSel.appendChild(opt);
+  });
+
+  populateBuildings();
+  populateGenres();
+  render();
+
+  document.getElementById('station').addEventListener('change', () => { populateBuildings(); render(); });
+  document.getElementById('building').addEventListener('change', render);
+  document.getElementById('genre').addEventListener('change', render);
+  document.getElementById('q').addEventListener('input', render);
+  document.getElementById('clear').addEventListener('click', () => {
+    document.getElementById('station').value = '';
+    document.getElementById('building').value = '';
+    document.getElementById('genre').value = '';
+    document.getElementById('q').value = '';
+    populateBuildings();
+    render();
+  });
+}
+
+function populateBuildings() {
+  const station = document.getElementById('station').value;
+  const buildingSel = document.getElementById('building');
+  const prev = buildingSel.value;
+  buildingSel.innerHTML = '<option value="">すべて</option>';
+  const pool = station ? DATA.filter(d => d.station === station) : DATA;
+  const buildings = [...new Set(pool.map(d => d.building))].sort();
+  buildings.forEach(b => {
+    const opt = document.createElement('option');
+    opt.value = b; opt.textContent = b;
+    buildingSel.appendChild(opt);
+  });
+  if (buildings.includes(prev)) buildingSel.value = prev;
+}
+
+function populateGenres() {
+  const genreSel = document.getElementById('genre');
+  const tags = [...new Set(DATA.flatMap(d => d.tags))].sort();
+  tags.forEach(g => {
+    const opt = document.createElement('option');
+    opt.value = g; opt.textContent = g;
+    genreSel.appendChild(opt);
+  });
+}
+
+function render() {
+  const station = document.getElementById('station').value;
+  const building = document.getElementById('building').value;
+  const genre = document.getElementById('genre').value;
+  const q = document.getElementById('q').value.trim().toLowerCase();
+
+  let filtered = DATA.filter(d => {
+    if (station && d.station !== station) return false;
+    if (building && d.building !== building) return false;
+    if (genre && !d.tags.includes(genre)) return false;
+    if (q) {
+      const hay = (d.shop + ' ' + d.tags.join(' ') + ' ' + d.building + ' ' + d.station).toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  filtered.sort((a, b) => (a.station + a.building + a.tags.join('') + a.shop).localeCompare(b.station + b.building + b.tags.join('') + b.shop));
+
+  const body = document.getElementById('resultBody');
+  body.innerHTML = '';
+  filtered.forEach(d => {
+    const tr = document.createElement('tr');
+    const tagHtml = d.tags.map(t => `<span class="genre-tag">${t}</span>`).join(' ');
+    tr.innerHTML = `
+      <td data-label="駅">${d.station}駅</td>
+      <td data-label="施設名">${d.building}</td>
+      <td data-label="フロア">${d.floor || '-'}</td>
+      <td data-label="タグ">${tagHtml}</td>
+      <td data-label="店舗名">${d.shop}</td>
+    `;
+    body.appendChild(tr);
+  });
+
+  document.getElementById('count').textContent = `${filtered.length}件 / 全${DATA.length}件`;
+  document.getElementById('resultTable').style.display = filtered.length ? '' : 'none';
+  document.getElementById('emptyMsg').style.display = filtered.length ? 'none' : '';
+}
+
+init();
+</script>
+</body>
+</html>

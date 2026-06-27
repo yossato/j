@@ -1,0 +1,6414 @@
+[
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"食品",
+"カフェ",
+"スイーツ"
+],
+"shop": "ディーン＆デルーカ"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"サービス"
+],
+"shop": "ミスターミニット"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"花"
+],
+"shop": "Hibiya-Kadan Style プラスエフ"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "ザ シティ ベーカリー"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "ゴディバ"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "ピエール・エルメ・パリ"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"メガネ"
+],
+"shop": "CHUO CONTACT"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "タビオ"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "メーカーズシャツ鎌倉"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"靴",
+"バッグ",
+"生活雑貨"
+],
+"shop": "ヴィド-ポッシュ ドゥ セピカ"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"バッグ",
+"生活雑貨"
+],
+"shop": "イア パピヨネ"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"文具",
+"生活雑貨"
+],
+"shop": "エディト・トロワ・シス・サンク"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"メガネ"
+],
+"shop": "ジンズ"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"靴",
+"バッグ",
+"生活雑貨"
+],
+"shop": "RANDA"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"生活雑貨",
+"食品"
+],
+"shop": "中川政七商店"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"食品",
+"スーパー"
+],
+"shop": "FOOD＆TIME ISETAN"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"食品",
+"スーパー"
+],
+"shop": "QUEEN'S ISETAN"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "Antenna America"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "よいのいき"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "custom salad Veggie"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "T.N.MEAT WORKS PREMIUM BEEF&WINE"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "Guzman y Gomez"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "BLUE BOTTLE COFFEE"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "AP by AMERICAN PHARMACY"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "CHICKEN NAN-BAR by TSUKADA NOJO"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "サンジェルマン"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "モスバーガー"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "サラベス"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "モンドバー"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "ざ ぜん"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "つばめKITCHEN"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "Asian Kitchen サナギ"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "エーダブリュ ゴーゴー"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "ベルジアン・ブラッスリー・コート ルーヴェン"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "IVO HOME'SPASTA Trattoria"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "フットセラピー"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "ヴェリー"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "エル カリエンテ"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "グランド・セントラル・オイスター・バー＆レストラン"
+},
+{
+"station": "品川",
+"building": "アトレ品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "海鮮寿し トリトン"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "サザコーヒー"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "和楽紅屋"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "ふるや古賀音庵"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "自由が丘 蜂の家"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "トップス"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "ダロワイヨ"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "御門屋"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "セゾンファクトリー"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"花",
+"ギフト"
+],
+"shop": "青山フラワーマーケット"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "パティスリー QBG"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "ポール"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "つばめグリルDELI"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "ヴィ パレット"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "いなりすし専門店 豆狸"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "とんかつ まい泉"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "てとて"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "シターラダイナー"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"生活雑貨"
+],
+"shop": "スミス"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "空いろ"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "千駄木腰塚"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "軽井沢いぶる"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "ヴィノスやまざき"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "バル マルシェ コダマ"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "オリーヴォ"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"コスメ",
+"生活雑貨"
+],
+"shop": "フルーツギャザリング"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "ぬる燗佐藤 御殿山茶寮"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "パオパオ"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "なだ万 厨房"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "加賀棒茶 丸八製茶場"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "アトリエうかい"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "銀座甘楽"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "常陸野ブルーイング品川"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "築地 竹若"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "ゑびすDaikoku"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "日本橋だし場 OBENTO"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "サカナバッカ"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "日本橋 天丼 天むす 金子半之助"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "肉卸 小島"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "菓匠三全"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "マイスターシュトュック ユーハイム"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "ミスターチキン鶏飯店"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "ハミングバード"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "フェルム ラ・テール 美瑛"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "FiOLATTE/フィオラッテ"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "刷毛じょうゆ 海苔弁山登り"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "東急ストア フードステーションミニ"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "魚力 海鮮寿司"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "HANAGATAYA"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "アール・エフ・ワン"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "神戸コロッケ"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "イーション"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "京橋千疋屋"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "ヨックモック"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "柿の木坂 キャトル"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "八天堂"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "サンドイッチハウス メルヘン"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "ねんりん家"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "鳥麻"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "塚田農場OBENTO&DELI"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "おむすび百千"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "鎌倉 豊島屋"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "coneri 品川"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "カンナムキンパ"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"衣料",
+"子供服"
+],
+"shop": "ユニクロ エキュート品川"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"書籍"
+],
+"shop": "ブックコンパス"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "TOKYO豚骨BASE MADE by 一風堂"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "手延べうどん 水山"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "スパイスファクトリー"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "アンデルセン"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"バッグ",
+"生活雑貨"
+],
+"shop": "ポータースタンド"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "タミルズ"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"コンビニ"
+],
+"shop": "ニューデイズ キオスク"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"コンビニ"
+],
+"shop": "ニューデイズ エキュート品川"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "吉利庵"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "品川 ひおき"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "立喰い寿司 魚がし日本一"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "関谷スパゲティ EXPRESS"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "GOOD NEWS TOKYO"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "立町カヌレ SHINAGAWA"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "VERY RUBY CUT"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "ほんのり屋"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "ヴェラーチェ パネッテリア-ガストロノミア"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "BOUL'ANGE"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "アンテノール Favorite Sweets"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "ダンデライオン チョコレート"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "Recipe"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "地雷也"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "I LOVE CUSTARD NEUFNEUF"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"生活雑貨"
+],
+"shop": "La Maison Concierge"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "シターラ"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "Dessert CHOUX"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "小樽洋菓子舗ルタオ"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "BELTZ"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"生活雑貨"
+],
+"shop": "Tiny CRAFTS"
+},
+{
+"station": "品川",
+"building": "エキュート品川",
+"floor": "",
+"tags": [
+"駅ナカ全般"
+],
+"shop": "エキュート品川内 JRE POINTマーク対象ショップ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"レストラン"
+],
+"shop": "たんめん専門店 百菜"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"レストラン"
+],
+"shop": "らぁめん大山"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"レストラン"
+],
+"shop": "焼きあご塩らー麺たかはし"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"レストラン"
+],
+"shop": "なんつッ亭"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "ノブ カフェ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "アンデルセン"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"スイーツ"
+],
+"shop": "アントステラ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"スイーツ"
+],
+"shop": "ゴディバ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"スイーツ"
+],
+"shop": "フロ プレステージュ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"スイーツ"
+],
+"shop": "不二家"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"スイーツ"
+],
+"shop": "東京凮月堂"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"スイーツ"
+],
+"shop": "文明堂"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"スイーツ"
+],
+"shop": "フーシェ/尾張松風屋"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "成城石井"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "PXストア"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "自然食品F&F"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "ワイズマート"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "魚力"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "ニュー・クイック"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "さわみつ青果"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "昇龍園"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "とんかつ和幸"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "跳ね鯛"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "チキン・ディッシュ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "好餃子 ハオチャオズ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "日本一"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "グリーン・グルメ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "崎陽軒"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "のり弁・UOHIDE"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "K-SOZAI"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"サービス",
+"生活雑貨"
+],
+"shop": "カメラのキタムラ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "金子園"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "茶 丸山園"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "B1F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "大川水産"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "アール・エフ・ワン"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "パオパオ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "イーション"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"レストラン"
+],
+"shop": "大阪焼肉・ホルモン ふたご"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "横浜 昇龍園"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "神戸屋キッチン エクスプレス"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "日本一"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "とんかつ まい泉"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "豆狸"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "ほんのり屋"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"スイーツ"
+],
+"shop": "浅草梅園"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"スイーツ"
+],
+"shop": "クリスピー・クリーム・ドーナツ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"スイーツ"
+],
+"shop": "柿の木坂キャトル"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"スイーツ"
+],
+"shop": "ラップドクレープコロット"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"レストラン"
+],
+"shop": "ふたば製麺"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "スターバックスコーヒー"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "デリフランス"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "成城石井"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"コンビニ"
+],
+"shop": "ニューデイズ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "焼魚舗 神戸 あかり"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "明洞デリ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"レストラン"
+],
+"shop": "舎鈴"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "北側改札内3F",
+"tags": [
+"スイーツ"
+],
+"shop": "りんごとバター。苺のワルツ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"花",
+"ギフト"
+],
+"shop": "モンソー フルール"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"花",
+"ギフト"
+],
+"shop": "青山フラワーマーケット"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "タリーズコーヒー"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "クリスピー・クリーム・ドーナツ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "スープ ストック トーキョー"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "アフタヌーンティー・ティールーム"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"コスメ",
+"生活雑貨"
+],
+"shop": "エンハーブ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "神戸屋キッチン エクスプレス"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "堂本"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "おむすび権米衛"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"衣料"
+],
+"shop": "ユナイテッドアローズ グリーンレーベルリラクシング ウィメン"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"衣料"
+],
+"shop": "パサージュ ミニョン"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "リリアンカラット"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "ラシット"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"衣料"
+],
+"shop": "マリークワント"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"衣料"
+],
+"shop": "ブルーブルーエ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"コスメ"
+],
+"shop": "ザボディショップ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"コスメ"
+],
+"shop": "トモズ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"コスメ"
+],
+"shop": "ファンケル"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"コスメ"
+],
+"shop": "ハウスオブローゼ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"コスメ"
+],
+"shop": "オルビス"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"コスメ"
+],
+"shop": "ラッシュ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "ネイルステーション"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"生活雑貨"
+],
+"shop": "プラザ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"生活雑貨"
+],
+"shop": "3COINS＋plus"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "1F",
+"tags": [
+"生活雑貨"
+],
+"shop": "DaisyLewis"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "リラクゼ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "イレブンカット"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "ル・タン"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "ラフィネ/無重力マッサージ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "RESET"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"メガネ"
+],
+"shop": "ハートアップ（コンタクト）"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "スターバックスコーヒー"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"衣料"
+],
+"shop": "サマンサモスモス"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"衣料"
+],
+"shop": "ローリーズファーム"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"衣料"
+],
+"shop": "アルシーヴ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"衣料"
+],
+"shop": "ヘザー"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"衣料"
+],
+"shop": "ページボーイ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"衣料"
+],
+"shop": "ジーナシス"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"衣料"
+],
+"shop": "クリア"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"衣料"
+],
+"shop": "グラシア ルッソ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"衣料"
+],
+"shop": "グレープフルーツ ムーン"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"メガネ"
+],
+"shop": "ゾフ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"衣料"
+],
+"shop": "チュチュアンナ グランデ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "ハートダンス"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "WORK STYLE BEAUTIES"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"生活雑貨"
+],
+"shop": "ピロースタンド"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "2F",
+"tags": [
+"子供服"
+],
+"shop": "TAKUJI STATION"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "ワイアードカフェ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "椿屋茶房"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "ディーン アンド デルーカ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"レストラン"
+],
+"shop": "プラチナ ビア マルシェ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"レストラン"
+],
+"shop": "白金魚プラチナフィッシュクラフト ビア バル"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "ポール"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"スイーツ"
+],
+"shop": "サーティワンアイスクリーム"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "コーヒーミルク"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "ザ フルーツ ショップ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"レストラン"
+],
+"shop": "プロント"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"レストラン"
+],
+"shop": "どうとんぼり神座"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"レストラン"
+],
+"shop": "そばじ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"レストラン"
+],
+"shop": "コレもう食べた？"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"レストラン"
+],
+"shop": "こめらく 海鮮ごはんと和のスープ。"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"レストラン"
+],
+"shop": "WithGreen"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "ゴンチャ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "ルトリオ アバハウス"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "ストラ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "プロポーション"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "ダイアナ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "ストロベリーフィールズ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "ルーニィ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "ハレ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "ドゥアルシーヴ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "テチチ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "サックスバー"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "バンヤードストーム"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "GALLEST"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "スリーフォータイム"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "レスポートサック"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "ジュエッテ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "テイクアップアウラ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "アクセサリーズブラッサム"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "イアパピヨネ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "ドロワーズ マイ フェヴァリット"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "アンフィ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "リサマリ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "ダッシングディバ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"生活雑貨"
+],
+"shop": "スミス"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"生活雑貨",
+"ギフト"
+],
+"shop": "アフタヌーンティー・ギフト&リビング"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"生活雑貨",
+"ギフト"
+],
+"shop": "バースデイ・バー"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "シップス"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "アーバンリサーチ ドアーズ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "靴下屋"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"コスメ"
+],
+"shop": "ビープル"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"コスメ"
+],
+"shop": "ザ コスメティック テラス ブルーストライプ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "ふるまいや（日本酒）"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"コンビニ"
+],
+"shop": "ニューデイズ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"花",
+"ギフト"
+],
+"shop": "青山フラワーマーケット ミドリギゲート店"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"生活雑貨"
+],
+"shop": "ハンズ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"生活雑貨"
+],
+"shop": "フライング タイガー コペンハーゲン"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"生活雑貨",
+"衣料",
+"子供服",
+"食品"
+],
+"shop": "無印良品"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"レストラン"
+],
+"shop": "フタバフルーツパーラー"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"レストラン"
+],
+"shop": "イー・エー・グラン"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"レストラン"
+],
+"shop": "トラットリア ターヴォラ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"レストラン"
+],
+"shop": "カフェ ノリータ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"レストラン"
+],
+"shop": "コーヒー＆ワインスタンド トロッコ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"衣料"
+],
+"shop": "アンテ バイ アンテシュクレ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"衣料"
+],
+"shop": "レイジブルー"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"衣料"
+],
+"shop": "ロペピクニック"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"衣料"
+],
+"shop": "エルーラ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"衣料"
+],
+"shop": "ミッシュマッシュ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"メガネ"
+],
+"shop": "ジンズ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "オリエンタルトラフィック"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"コスメ"
+],
+"shop": "パウダーパレット/ビューズアイブロウスタジオ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"コスメ"
+],
+"shop": "シャン・ド・エルブ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "4F",
+"tags": [
+"書籍",
+"生活雑貨"
+],
+"shop": "有隣堂"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "5F",
+"tags": [
+"衣料",
+"子供服"
+],
+"shop": "ユニクロ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "6F",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "ABCマート"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "6F",
+"tags": [
+"メガネ"
+],
+"shop": "オグラ眼鏡店"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "6F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "ファス"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "6F",
+"tags": [
+"衣料"
+],
+"shop": "エメ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "6F",
+"tags": [
+"衣料"
+],
+"shop": "ハニーズ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "6F",
+"tags": [
+"衣料"
+],
+"shop": "オリヒカ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "6F",
+"tags": [
+"レストラン"
+],
+"shop": "肉食べ放題BBQビアガーデン"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "7F",
+"tags": [
+"子供服"
+],
+"shop": "めばえ教室"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "7F",
+"tags": [
+"子供服"
+],
+"shop": "ミキハウスキッズパル"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "7F",
+"tags": [
+"レストラン"
+],
+"shop": "かっぱ寿司"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "7F",
+"tags": [
+"レストラン"
+],
+"shop": "ラパウザ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "7F",
+"tags": [
+"レストラン"
+],
+"shop": "とんかつ和幸"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "7F",
+"tags": [
+"レストラン"
+],
+"shop": "卵と私"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "7F",
+"tags": [
+"レストラン"
+],
+"shop": "牛たん とろろ 麦めし ねぎし"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "7F",
+"tags": [
+"レストラン"
+],
+"shop": "しゃぶ葉"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "7F",
+"tags": [
+"レストラン"
+],
+"shop": "星のうどん庵"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "8F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "アトリエJD パリ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "8F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "エステティックサロン ソシエ/ビューティスタジオ ソシエ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "8F",
+"tags": [
+"レストラン"
+],
+"shop": "こてがえし"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "8F",
+"tags": [
+"レストラン"
+],
+"shop": "ジョナサン"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "成城石井"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "カルディコーヒーファーム"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"メガネ"
+],
+"shop": "ゾフ"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"書籍",
+"生活雑貨"
+],
+"shop": "有隣堂"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"生活雑貨"
+],
+"shop": "PLAZA"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "@cosme STORE"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "CHANEL FRAGRANCE&BEAUTY"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "Aesop"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "キールズ"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "IPSA"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "track"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "SABON"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "SHIRO"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "ORBIS"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "Leafie"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "マークスアンドウェブ"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "OSAJI"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"花",
+"ギフト"
+],
+"shop": "フルラージュアン"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "ブランジェ浅野屋"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "DÉCOUVERTE"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "JACK IN THE DONUTS"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "ミスターワッフル"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Deuxième Classe"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "martinique"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "MilaOwen"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "EIMY ISTOIRE"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "BABYLONE"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "ánuans"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "グレースコンチネンタル"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "LILY BROWN"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "FURFUR"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "SHENERY"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "FRAMeWORK"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "LOUNGEDRESS"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "LAGUNAMOON"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "FRAY I.D"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "GALLARDAGALANTE"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "allureville"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Arpege story"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Apuweiser-riche"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "SNIDEL"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "ETRÉ TOKYO"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "gelato pique"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "TIARA"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "COCO DEAL"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "IÉNA"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "SLOBE IÉNA"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Shinzone"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Spick & Span"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "STUDIOUS WOMENS"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "CLANE"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "JILL by JILL STUART"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "FREE'S MART"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "archives"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "MERCURYDUO"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Heather"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "LOWRYS FARM"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Ungrid"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "AndCouture"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "evelyn"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "mystic"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "MURUA"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Seemi. by NICE CLAUP"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "REDYAZEL"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "MOUSSY"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "EMODA"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "SLY"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "JEANASIS"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Kastane"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "SALON by Chico"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "EDIFICE"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "UNITED ARROWS"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "ビームス"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "ユナイテッドトウキョウ"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "バブアー"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "TOMORROWLAND"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "PUBLIC TOKYO"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "URBAN RESEARCH"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "ADAM ET ROPE"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "JOURNAL STANDARD"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "ユナイテッドアローズ グリーンレーベル リラクシング"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Traditional Weatherwear"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "OUTDOOR PRODUCTS USUALTHINGS"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Bshop"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "MHL,"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "FREAK'S STORE"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "CITEN"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "ジーユー"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "e.m."
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "agete"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "STAR JEWELRY"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "cui-cui"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "Jouete"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "ete"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "AIMER"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "GOLDY"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "HIROB"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"メガネ"
+],
+"shop": "コンタクトのアイシティ"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "REPOS russet"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "Samantha Thavasa"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "MUCHA"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "The PERFUME OIL FACTORY"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "FERNANDA"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "HARBS"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "スターバックス"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "24/7 coffee & roaster"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "アフタヌーンティー・ラブアンドテーブル"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "Aiam"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "AUX PARADIS"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "LE TALON"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "DIANA"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "BIRKENSTOCK"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "ORiental TRaffic"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "WASH"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "NAILS INC"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "Cosme Kitchen"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "ピーチ・ジョン"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "リサマリ"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "ante by intesucre"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"家具"
+],
+"shop": "JOURNAL STANDARD FURNITURE"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "San-ai Resort"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "Re:See"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "RIM"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "靴下屋"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "because"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "ANEMONE"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "トポロジー"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"サービス"
+],
+"shop": "お直しコンシェルジュ ビック・ママ"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"サービス"
+],
+"shop": "ピノキオ"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"生活雑貨"
+],
+"shop": "ATELIER"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ",
+"生活雑貨"
+],
+"shop": "enherb"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"生活雑貨",
+"食品"
+],
+"shop": "中川政七商店"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "ジョンマスターオーガニック"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"生活雑貨",
+"ギフト"
+],
+"shop": "BIRTHDAY BAR"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"バッグ"
+],
+"shop": "GREGORY"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"メガネ"
+],
+"shop": "Stay&go"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"文具",
+"生活雑貨"
+],
+"shop": "Smith"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "The French Toast Factory"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "オッティモシーフードガーデン"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "マンゴツリーカフェ"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "マルモキッチン"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "ソバキチ"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "洋食と喫茶 咖喱屋ボングー"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "韓美膳"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "神戸元町ドリア"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "cafe locally"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "AGIO"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "ご馳走汁と炊き込みご飯 七五三"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "ラ・メゾン アンソレイユターブル"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "やさい家めい"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "土古里"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "京都 石塀小路豆ちゃ"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "黒ぶたや"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "ブリル飯店"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "牛たん炭焼 利久"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "つばめグリル"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "よこはま駅ビル眼科"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"文具",
+"生活雑貨"
+],
+"shop": "世界堂"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"サービス"
+],
+"shop": "朝日カルチャーセンター"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "ビューティフェイス"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "グランラフィネ"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "DIAMOND EYES"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "リラクゼ"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "NAIL STATION"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "整体×ボディケア Refresh"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "atelier haruka"
+},
+{
+"station": "横浜",
+"building": "ルミネ横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "the Rooftop club"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "Tiffany & Co."
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "BALENCIAGA"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "BLUE BOTTLE COFFEE"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "TULLY'S COFFEE"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "SMITH TEAMAKER"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "ERIC ROSE YOKOHAMA COFFEE"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "Ralph's Coffee"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": ".17 Café"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "STARBUCKS"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "MONCLER"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Gallery CABaN"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "JOHN SMEDLEY"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "MACKINTOSH"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "THE TOKYO"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Drawing Numbers"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "BRITISH MADE"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "LOVELESS"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "UGG"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "evam eva"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "DESCENTE"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "KURA CHIKA by PORTER"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "SeeP EYEVAN"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "A.P.C."
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "MARGARET HOWELL"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "CABaN"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "agnès b."
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Steven Alan"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "ANATOMICA"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "MAISON KITSUNÉ"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "GALERIE VIE"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Polo Ralph Lauren"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "Dr.Martens"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "Maker's Watch Knot"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"メガネ"
+],
+"shop": "MOSCOT"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "OFFICINE UNIVERSELLE BULY"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "Dior BACKSTAGE STUDIO"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "@cosme STORE"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "ALBION PHILOSOPHY"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "POLA"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "BAUM"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "uka store"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "北麓草水"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "Aēsop"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "LE LABO"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "DIPTYQUE"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "Santa Maria Novella"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "Maison Margiela Fragrances"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "APFR"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "NOSE SHOP"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "NOWHERE NOWHERE"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "MAISON CACAO"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "'eir"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "@aroma"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "BLANC IRIS"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "designsix"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "Jouete L/"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "BIZOUX"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Edit united arrows"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "yuni"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "MARcourt DESIGNEYE"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Sea Room lynn"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Whim Gazette"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "1er Arrondissement"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Curensology"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "MAISON SPECIAL WOMENS"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "OUR WACOAL"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "PRANK PROJECT"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "LE PHIL"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "AP STUDIO"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "ESTNATION"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "Chaos"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "BRILL"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "オオカミとフクロウ"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "3(march)（THE NORTH FACE）"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "MAISON SPECIAL MENS"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "YANUK"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"生活雑貨",
+"衣料",
+"子供服",
+"食品"
+],
+"shop": "無印良品"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"家具"
+],
+"shop": "unico"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料",
+"生活雑貨"
+],
+"shop": "TENERITA"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "EMILY WEEK"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "WWS"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "New Balance"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"メガネ"
+],
+"shop": "eyecity"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "Tabio"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "RAGTAG"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "Footdesign"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"サービス"
+],
+"shop": "Form-i"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"サービス"
+],
+"shop": "MISTER MINIT"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"生活雑貨"
+],
+"shop": "薫玉堂"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "davines"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "ReFa"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "Violet"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "ジェクサー・フィットネススタジオ マシンピラティス"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"サービス"
+],
+"shop": "KOMEHYO買取センター"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "LONGCHAMP"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"靴",
+"バッグ"
+],
+"shop": "SLOW authentic goods store"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"衣料"
+],
+"shop": "ALBOVE・PEAK＆PINE"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "横浜MKアイクリニック"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "THE ALLEY"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "THE CITY BAKERY"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "HARBS"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "2416 MARKET"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "2416 MARKET PASTA&"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "800°DEGREES CRAFT BREW STAND"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "800°DEGREES ARTISAN PIZZERIA"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "CRISP SALAD WORKS"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "SALON BUTCHER & WINE"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "THE CITY BAKERY BRASSERIE RUBIN"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "しらす食堂 じゃこ屋 七代目 山利"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "SUSHI TOKYO TEN"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "Nood e"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "PARIYA DELICATESSEN"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "MS.CASABLANCA"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "横浜DRAセブン"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "COMEDOR DE MARGARITA"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "蕎麦 蘇枋"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "BETELNUT"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "うなぎと和食 八十八"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "横浜焼肉 kintan"
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"サービス"
+],
+"shop": "NEWoMan Lab."
+},
+{
+"station": "横浜",
+"building": "ニュウマン横浜",
+"floor": "",
+"tags": [
+"サービス"
+],
+"shop": "NEWoMan Lab. petit"
+},
+{
+"station": "横浜",
+"building": "エキュートエディション横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "5 CROSSTIES COFFEE"
+},
+{
+"station": "横浜",
+"building": "エキュートエディション横浜",
+"floor": "",
+"tags": [
+"サービス"
+],
+"shop": "STATION DESK横浜"
+},
+{
+"station": "横浜",
+"building": "エキュートエディション横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "貝出汁粥 鬼貝"
+},
+{
+"station": "横浜",
+"building": "エキュートエディション横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "大衆酒場2.0 とぽす"
+},
+{
+"station": "横浜",
+"building": "エキュートエディション横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "チョイット・コンセプト"
+},
+{
+"station": "横浜",
+"building": "エキュートエディション横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "横浜すし好"
+},
+{
+"station": "横浜",
+"building": "エキュートエディション横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "COFFEE AND BEER &9（アンド・ナイン）"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "AKOMEYA TOKYO"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "スコーン専門店iro"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "京都 茶寮翠泉"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "GRANNY SMITH APPLE PIE & COFFEE"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "ヴィノスやまざき"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "ありあけ本館 HARBOUR'S MOON"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "BLUE CACAO"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"花",
+"ギフト"
+],
+"shop": "FLEURISTE BON MARCHE"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "DEAN ＆ DELUCA"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "ラニカイジュース"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "ガトー・ド・ボワイヤージュ"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "ミサキドーナツ"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "Ben's Cookies"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "AUX BACCHANALES La Sœur"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "果実園リーベル"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "TOMCAT"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "ギャレット ポップコーン ショップス"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "湘南クリエイティブ・ガトー 葦"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"コンビニ"
+],
+"shop": "NewDays"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "TULLY'S COFFEE"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "魚の北辰"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "Daily Table KINOKUNIYA"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "ニュー・クイック"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "九州屋"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "大川水産"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "十勝あんこのサザエ"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "重慶飯店 GIFT & DELI"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "グリーン・グルメ"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "三本珈琲店"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "元祖油堂"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "AMARA INDIAN CURRY ＆ NAN"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "博多 肉の壱丁田"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "はまけい"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "勝烈庵"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "三ツ星弁当 頂"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "つばめグリルDELI"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "塚田農場OBENTO＆DELI"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "五十嵐"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "チャオタイの屋台弁当"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "カンナムデリ"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "イーション"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "揚げたて天ぷら はま天"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "CRAFT BEER TAP⑨"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "#海南鶏飯食堂"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "右衛門"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "ごっつええ本舗"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "立ち寿司 おや潮"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "極味薬膳スープ 菜菜麻辣湯"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "Bar＆Tapas Celona"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "CYCLO Banh mi"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "つけめんTETSU"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "鉄板韓国 SHIK-TTANG"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "ハマチカ酒場"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "磯丸水産食堂"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "ちゃんぷら～"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "串カツ田中"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜ANNEX",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "文化堂"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜ANNEX",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "新潟・佐渡の旬と地酒 いかの墨"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜ANNEX",
+"floor": "",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "BISTRO Katsuki"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜ANNEX",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "シュマッツ・ビア・ダイニング"
+},
+{
+"station": "横浜",
+"building": "CIAL横浜ANNEX",
+"floor": "",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "三河屋"
+}
+]
