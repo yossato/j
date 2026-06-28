@@ -453,8 +453,7 @@
 "building": "エキュート品川",
 "floor": "",
 "tags": [
-"花",
-"ギフト"
+"花"
 ],
 "shop": "青山フラワーマーケット"
 },
@@ -1851,8 +1850,7 @@
 "building": "アトレ川崎",
 "floor": "1F",
 "tags": [
-"花",
-"ギフト"
+"花"
 ],
 "shop": "青山フラワーマーケット"
 },
@@ -6406,5 +6404,2677 @@
 "酒"
 ],
 "shop": "三河屋"
+},
+{
+"station": "有楽町",
+"building": "エキュートエディション有楽町",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "TOKYO ALEWORKS STATION TAPROOM"
+},
+{
+"station": "有楽町",
+"building": "エキュートエディション有楽町",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "THE STAND"
+},
+{
+"station": "有楽町",
+"building": "エキュートエディション有楽町",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "nomuno EXPRESS"
+},
+{
+"station": "有楽町",
+"building": "エキュートエディション有楽町",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "荻野屋 弦"
+},
+{
+"station": "有楽町",
+"building": "エキュートエディション有楽町",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "有楽町GYOZA待合室"
+},
+{
+"station": "有楽町",
+"building": "エキュートエディション有楽町",
+"floor": "",
+"tags": [
+"ベーカリー"
+],
+"shop": "Truffle mini"
+},
+{
+"station": "有楽町",
+"building": "エキュートエディション有楽町",
+"floor": "",
+"tags": [
+"コンビニ"
+],
+"shop": "NewDays エキュートエディション有楽町京橋口"
+},
+{
+"station": "有楽町",
+"building": "ルミネ有楽町(ルミネ1)",
+"floor": "1F",
+"tags": [
+"コスメ"
+],
+"shop": "シャネル フレグランス&ビューティ"
+},
+{
+"station": "有楽町",
+"building": "ルミネ有楽町(ルミネ1)",
+"floor": "1F",
+"tags": [
+"衣料"
+],
+"shop": "Deuxiéme Classe"
+},
+{
+"station": "有楽町",
+"building": "ルミネ有楽町(ルミネ1)",
+"floor": "1F",
+"tags": [
+"コスメ"
+],
+"shop": "THREE"
+},
+{
+"station": "有楽町",
+"building": "ルミネ有楽町(ルミネ1)",
+"floor": "1F",
+"tags": [
+"コスメ"
+],
+"shop": "イプサ"
+},
+{
+"station": "有楽町",
+"building": "ルミネ有楽町(ルミネ1)",
+"floor": "1F",
+"tags": [
+"コスメ"
+],
+"shop": "RMK"
+},
+{
+"station": "有楽町",
+"building": "ルミネ有楽町(ルミネ1)",
+"floor": "1F",
+"tags": [
+"アクセサリー"
+],
+"shop": "KAORU"
+},
+{
+"station": "有楽町",
+"building": "ルミネ有楽町(ルミネ1)",
+"floor": "1F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "SABON"
+},
+{
+"station": "有楽町",
+"building": "ルミネ有楽町(ルミネ1)",
+"floor": "1F",
+"tags": [
+"コスメ"
+],
+"shop": "Cosme Kitchen"
+},
+{
+"station": "有楽町",
+"building": "ルミネ有楽町(ルミネ1)",
+"floor": "1F",
+"tags": [
+"衣料"
+],
+"shop": "MARTINIQUE LE CONTE"
+},
+{
+"station": "有楽町",
+"building": "ルミネ有楽町(ルミネ1)",
+"floor": "1F",
+"tags": [
+"コスメ"
+],
+"shop": "MUCHA"
+},
+{
+"station": "有楽町",
+"building": "ルミネ有楽町(ルミネ1)",
+"floor": "1F",
+"tags": [
+"コスメ"
+],
+"shop": "SNIDEL BEAUTY"
+},
+{
+"station": "有楽町",
+"building": "ルミネ有楽町(ルミネ1)",
+"floor": "1F",
+"tags": [
+"コスメ"
+],
+"shop": "Celvoke"
+},
+{
+"station": "有楽町",
+"building": "ルミネ有楽町(ルミネ1)",
+"floor": "1F",
+"tags": [
+"衣料"
+],
+"shop": "ロンハーマン"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"弁当"
+],
+"shop": "駅弁屋 祭"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"弁当"
+],
+"shop": "駅弁屋 踊"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "ONI＆Co."
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "サラダ&ダイニング CITYSHOP"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "仙臺たんや利久"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "神戸コロッケ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "豆狸"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "つきじ喜代村"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "名古屋名物 みそかつ 矢場とん"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "とんかつ まい泉"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "台湾料理専門店 台湾１０１"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "焼き鳥 串くら 京都・御池"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "ゐざさ茶屋"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "伊達の牛たん本舗"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "オーベルジーヌ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "うぶか"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "Mr.Chicken鶏飯店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "てとて"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "和牛の壱丁田"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "崎陽軒"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "えさきのおべんとう"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "築地カイセンノドン"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "ゆーパイむ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "eashion"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "駅弁つばめグリル"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "浅草今半"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "RF1"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "若廣TOKYO"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "地雷也"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "サンドイッチハウス メルヘン グランスタ東京店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "刷毛じょうゆ 海苔弁山登り"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "サカナバッカ グランスタ東京店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "カンナムキンパ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "おむすび百千"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "塚田農場 OBENTO＆DELI 京葉ストリート店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "日本橋 天丼 天むす 金子半之助"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "Deli comer"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "魚力海鮮寿司"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "HANAGATAYAグランスタ東京北通路"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "Curly's Croissant TOKYO BAKE STAND"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "THE BEAT DINER"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "近畿大学水産研究所 はなれ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "紀ノ国屋アントレ グランスタ東京店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "HANAGATAYAグランスタ東京中央通路店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "TOUBEI"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "ほんのり屋×marukome"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "kamakura GORO 月うさレーベル"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "フルーツピークス"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "GRAMERCY NEWYORK 八重洲店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "東京ミルクチーズ工場"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "ベルン"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "SHIROÉ by Hugh Morgan"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "GRAMERCY NEWYORK"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "ピエール・エルメ・パリ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "じゃがボルダ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "(NO) RAISIN SANDWICH"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "MIYUKA"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "アトリエうかい"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "an and an"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "カヌレリテ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "Brick bake bakers by Pâtisserie ease"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "Fairycake Fair"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "御門屋TOKYO"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "Mr. CHEESECAKE"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "shodai bio nature"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "船橋屋 こよみ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "AM STRAM GRAM nobolyquedaly"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "BURDIGALA TOKYO"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "東京あんぱん豆一豆"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "GOOD NEWS TOKYO"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "パティスリー GIN NO MORI"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "SOBAP"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "GOD BLESS BUTTER"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "PARIS BUTTER CHOCOLAT"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "THE DROS"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "MAISON CACAO"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "薫るバター Sabrina"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "香炉庵 KOURO-AN"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "オードリー"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "ザ・メープルマニア"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "喫茶店に恋して。"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "とらや"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "コロンバン"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "nuevo by BUNMEIDO"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "Be! FRUITS SANDWICH"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "ラデュレ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "TOKYO!!!"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "ガトーフェスタ ハラダ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "COCORIS"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "Now on Cheese♪ Hello, Tokyo Station!"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "元祖木村焼き 百両屋"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "富士見堂"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "日本橋錦豊琳"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "銀座甘楽"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "ピエール マルコリーニ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "DEAN ＆ DELUCA"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "菓匠三全"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "恵比寿 和定食 なかよし"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "そばいち グランスタ東京店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "T'sたんたん"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "Japanese Malt Whisky SAKURA"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "NIPPON RAMEN 凛 RIN TOKYO"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "北出TACOS"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "海鮮居酒屋 羽田市場"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "名古屋コーチン専門 伊藤和四五郎商店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "STATION RESTAURANT THE CENTRAL"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "純但馬牛 美方 powered by GORIO"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "はせがわ酒店 グランスタ東京店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "アル・デンシャル丸の内byアル・ケッチァーノ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "雷 東京本丸店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "とんかつ まい泉食堂"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "肉卸小島"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "回転寿司 羽田市場"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "江戸切り 助六そば ぬる燗佐藤"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "常陸野ブルーイング 丸の内"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "格之進ハンバーグ＆バル"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "DEPOT"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "天然本まぐろ ありそ鮨し"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "東京パニーノ アロマフレスカ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "南国酒家 47china"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "東京ギョーザ スタンド ウーロン"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "Tokyo Station Beer Stand"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"カフェ"
+],
+"shop": "スターバックス コーヒー グランスタ東京B1店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"カフェ"
+],
+"shop": "ベックスコーヒーショップ丸の内南口"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"カフェ"
+],
+"shop": "デイジイ東京"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"カフェ"
+],
+"shop": "THE STANDARD BAKERS TOKYO"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"カフェ"
+],
+"shop": "5 CROSSTIES COFFEE"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"ベーカリー"
+],
+"shop": "Butz Sandwich"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"ベーカリー"
+],
+"shop": "Zopf カレーパン専門店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"花"
+],
+"shop": "青山フラワーマーケット"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"生活雑貨"
+],
+"shop": "ものとアート"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"生活雑貨"
+],
+"shop": "VINYL"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"生活雑貨"
+],
+"shop": "OLD-FASHIONED STAND"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"生活雑貨"
+],
+"shop": "3COINS"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"衣料"
+],
+"shop": "ユニクロ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"コスメ"
+],
+"shop": "コスメロフト"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"生活雑貨"
+],
+"shop": "TRAINIART TOKYO"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"衣料"
+],
+"shop": "中川政七商店 分店 服"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"生活雑貨"
+],
+"shop": "OLD-FASHIONED STORE TOKYO"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"サービス"
+],
+"shop": "MISTER MINIT グランスタ店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"コンビニ"
+],
+"shop": "NewDays+HANAGATAYAグランスタ東京 京葉ストリート"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"コンビニ"
+],
+"shop": "NewDaysグランスタ東京北通路店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"コンビニ"
+],
+"shop": "NewDaysグランスタ東京八重洲北口店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "1F",
+"tags": [
+"コンビニ"
+],
+"shop": "NewDaysグランスタ東京中央通路店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1",
+"tags": [
+"コンビニ"
+],
+"shop": "NewDays KIOSK"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "mango tree kitchen GAPAO"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "B1",
+"tags": [
+"レストラン",
+"弁当"
+],
+"shop": "サカナバッカ グランスタ丸の内店"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"食品"
+],
+"shop": "紀ノ国屋アントレ グランスタ丸の内店"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "韓美膳（ハンビジェ）"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "and TOKYO"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"スイーツ"
+],
+"shop": "BAKE CHEESE TART"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "B1",
+"tags": [
+"レストラン",
+"食品"
+],
+"shop": "EATALY MARUNOUCHI"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"レストラン",
+"食品"
+],
+"shop": "茅乃舎"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "B1",
+"tags": [
+"カフェ",
+"レストラン"
+],
+"shop": "WK2"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"レストラン"
+],
+"shop": "築地すし好 和（ツキジスシコウ ナゴミ）"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "いろり庵きらく"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "B1",
+"tags": [
+"カフェ"
+],
+"shop": "ROKUMEI COFFEE CO."
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "サンドイッチハウス　メルヘン　グランスタ丸の内店"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "B1",
+"tags": [
+"コスメ"
+],
+"shop": "ROAliv"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "B1",
+"tags": [
+"サービス"
+],
+"shop": "STATION DESK"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "B1",
+"tags": [
+"生活雑貨"
+],
+"shop": "LUSSO Rain gear shop"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "Biople（ビープル）"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"サービス"
+],
+"shop": "東京ビジネスクリニック　グランスタ丸の内店"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"アクセサリー",
+"バッグ"
+],
+"shop": "ANEMONE（アネモネ）"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"コスメ"
+],
+"shop": "アイン薬局"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "B1",
+"tags": [
+"リラクゼーション"
+],
+"shop": "QBハウス"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"生活雑貨"
+],
+"shop": "ekissora（エキソラ）"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"文具"
+],
+"shop": "Neue（ノイエ）"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"靴"
+],
+"shop": "ABC-MART"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"バッグ"
+],
+"shop": "日乃本帆布（ヒノモトハンプ）"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"リラクゼーション"
+],
+"shop": "Raffine（ラフィネ）"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"生活雑貨"
+],
+"shop": "神保町いちのいち"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"生活雑貨"
+],
+"shop": "TRAVELER'S FACTORY STATION"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"コンビニ"
+],
+"shop": "NewDaysグランスタ丸の内北口店"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"カフェ"
+],
+"shop": "スターバックス コーヒー グランスタ丸の内店"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"レストラン",
+"酒"
+],
+"shop": "WINESHOP ENOTECA"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"コンビニ"
+],
+"shop": "NewDaysグランスタ丸の内南口店"
+},
+{
+"station": "東京",
+"building": "グランスタ丸の内",
+"floor": "",
+"tags": [
+"食品"
+],
+"shop": "のもの"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "B1",
+"tags": [
+"スイーツ"
+],
+"shop": "PÄRLA"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "焼肉房家 東京駅店"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "水炊きおでん　しゃもん"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "英國酒場 Shake＆Chips"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "札幌魚河岸 五十七番寿し"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "名古屋コーチン一鳳　東京弌鳥"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "月島もんじゃ たまとや 東京駅"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "ハウス　ランドリー"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "酒と肴 離れ庵"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "手打ちそば　みや川"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "うなぎ四代目菊川"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "YEBISU BAR"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "天津餃子～天津飯店の餃子専門店～"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "米沢牛黄木"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "SHUTTERS"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"スイーツ",
+"カフェ"
+],
+"shop": "果実園リーベル"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "神戸牛ダイア 東京駅店"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "餃子といえば芭莉龍"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "酒肴日和 アテニヨル"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "立喰い寿司　ひなと丸"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "北海道小麦の生パスタ 麦と卵"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "極味や"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "あんかけやきそば 南国酒家"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "鉄板ホルモン 蟻月"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "韓国酒場 コッキオ"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "天ぷら串とまぶしめし　ハゲ天"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "Bangera's Spice Bistro & Cafe"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "日式台湾食堂　WUMEI（ウーメイ）"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "どうとんぼり神座"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "dancyu食堂"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "ビストロ石川亭"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "難波千日前 釜たけうどん"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "味の牛たん喜助"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "とんかつ寿々木"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"カフェ",
+"レストラン"
+],
+"shop": "PRONTO"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "RelaXE×BLOW BROW"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"生活雑貨"
+],
+"shop": "ケンエレスタンド"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "1F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "QBハウス 東京駅日本橋口店"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "2F",
+"tags": [
+"レストラン"
+],
+"shop": "オールドステーション"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "2F",
+"tags": [
+"レストラン"
+],
+"shop": "いろり庵"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "2F",
+"tags": [
+"レストラン"
+],
+"shop": "華祭"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "2F",
+"tags": [
+"レストラン"
+],
+"shop": "東京屋台"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "2F",
+"tags": [
+"レストラン"
+],
+"shop": "本家あべや"
+},
+{
+"station": "東京",
+"building": "グランスタ八重北",
+"floor": "2F",
+"tags": [
+"レストラン"
+],
+"shop": "七代目 卯兵衛（ななだいめ うへえ）"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "牛たん専門店 仙臺たんや 利久"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "神戸牛専門店 神戸牛ダイア グランスタ八重洲店"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "M2",
+"tags": [
+"レストラン"
+],
+"shop": "寿司 浅草寿司場 ひなと丸"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "もんじゃ焼き 月島もんじゃ くうや 東京駅"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "2F",
+"tags": [
+"レストラン"
+],
+"shop": "イタリアン Osteria IL VIAGGIO（オステリア イル ヴィアッジオ）"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "中華料理 餃子百珍 一味玲玲"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "うなぎ うなぎ 成田新川"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "寿司 築地寿司清"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "北海道バル 北海道バル 海"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "シーフードバル Gigas Seafood Bar（ギガス シーフード バル）"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "天ぷら 天ぷら 天喜代"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "鶏料理 鳥元"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "飲茶 神座飲茶樓"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "2F",
+"tags": [
+"レストラン"
+],
+"shop": "ヘルシーレストラン VOLPUTAS OLIVEOIL DINING TOKYO（ウォルプタス オリーブオイル ダイニング トーキョー）"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "バル ACORN（エイコーン）"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "カジュアルフレンチ ワイン食堂 旅する子ブタ"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "プレミアムハンバーグ・肉バル HAMBURG WORKS（ハンバーグワークス）"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"レストラン"
+],
+"shop": "とんかつ みそかつ 矢場とん グランスタ八重洲店"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "2F",
+"tags": [
+"レストラン"
+],
+"shop": "ビアバー 常陸野ブルーイング Tokyo Yaesu"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "2F",
+"tags": [
+"カフェ"
+],
+"shop": "軽飲食 feb's coffee & scone TOKYO"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"カフェ"
+],
+"shop": "カフェ GODIVA café Tokyo（ゴディバカフェ トウキョウ）"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"カフェ"
+],
+"shop": "アジアンカフェ ゴンチャ"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"カフェ"
+],
+"shop": "スペシャルティコーヒー スターバックス コーヒー グランスタ八重洲店"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"書籍"
+],
+"shop": "書店 八重洲ブックセンター"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "1F・M2",
+"tags": [
+"サービス"
+],
+"shop": "医業 Tokyo Station International Clinic"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"サービス"
+],
+"shop": "写真プリント・証明写真・買取 カメラのキタムラ"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"コスメ"
+],
+"shop": "薬・化粧品 KoKuMiN（コクミン）"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"メガネ"
+],
+"shop": "メガネ・サングラス JINS"
+},
+{
+"station": "東京",
+"building": "グランスタ八重洲",
+"floor": "B1",
+"tags": [
+"コンビニ"
+],
+"shop": "NewDaysグランスタ八重洲地下南店"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：八重洲南口改札",
+"tags": [
+"レストラン"
+],
+"shop": "蜻蛉玉"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：グランアージュ",
+"tags": [
+"レストラン"
+],
+"shop": "CRISP SALAD WORKS"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：八重洲南口改札",
+"tags": [
+"レストラン"
+],
+"shop": "餃子舗 珉珉（ギョウザホ ミンミン）"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：グランアージュ",
+"tags": [
+"レストラン"
+],
+"shop": "ひかり屋"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：八重洲南口改札",
+"tags": [
+"レストラン"
+],
+"shop": "博多らーめん由丸"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：八重洲南口改札",
+"tags": [
+"レストラン"
+],
+"shop": "刀削麺酒坊"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：八重洲南口改札",
+"tags": [
+"レストラン"
+],
+"shop": "Royal Indian Restaurant Wine&Bar KOHINOOR（ロイヤルインディアンレストラン ワインアンドバー コヒノール）"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：八重洲南口改札",
+"tags": [
+"レストラン"
+],
+"shop": "霧笛屋"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：八重洲南口改札",
+"tags": [
+"レストラン"
+],
+"shop": "お好み焼き・鉄板焼き 大阪 めっせ熊"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：八重洲南口改札",
+"tags": [
+"レストラン",
+"カフェ"
+],
+"shop": "Tokyo Beer Paradise by Primus（トウキョウ ビア パラダイス バイ プリムス）"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：八重洲南口改札",
+"tags": [
+"レストラン"
+],
+"shop": "軍鶏と和豚 黒松屋"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "1F：八重洲南口改札",
+"tags": [
+"レストラン"
+],
+"shop": "NIHONBASHI BREWERY.T.S"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：八重洲南口改札",
+"tags": [
+"カフェ"
+],
+"shop": "タリーズコーヒー"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "2F：八重洲南口改札",
+"tags": [
+"リラクゼーション"
+],
+"shop": "M KOZO hair"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "2F：八重洲南口改札",
+"tags": [
+"サービス"
+],
+"shop": "PCP 丸の内デンタルクリニック"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：八重洲南口改札",
+"tags": [
+"サービス"
+],
+"shop": "iCure 鍼灸接骨 丸の内"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：八重洲南口改札",
+"tags": [
+"リラクゼーション"
+],
+"shop": "リラクゼ東京"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "2F",
+"tags": [
+"サービス"
+],
+"shop": "ワークスタイリング／SHARE LOUNGE八重洲南口"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：八重洲南口改札",
+"tags": [
+"コンビニ"
+],
+"shop": "ファミリーマート"
+},
+{
+"station": "東京",
+"building": "グランアージュ",
+"floor": "B1：八重洲南口改札",
+"tags": [
+"コンビニ"
+],
+"shop": "ファミマ!!"
 }
 ]
