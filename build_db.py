@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """JRE優待店 完全データベース構築スクリプト"""
-import openpyxl
-from openpyxl.styles import Font, PatternFill, Alignment
-from openpyxl.utils import get_column_letter
 
 # (ジャンル, 店舗名, 駅, 施設名, フロア)
 rows = []
@@ -1086,59 +1083,6 @@ rows_tagged = [
     for genre, shop, station, building, floor in rows
 ]
 
-# ============================================================
-wb = openpyxl.Workbook()
-
-# --- Sheet1: 統合マスター ---
-ws = wb.active
-ws.title = "統合マスター"
-header = ["駅","施設名","フロア","ジャンル(元)","タグ","店舗名"]
-ws.append(header)
-for genre, shop, station, building, floor, tags in sorted(rows_tagged, key=lambda r: (r[2], r[3], r[4])):
-    ws.append([station, building, floor, genre, "/".join(tags), shop])
-
-header_fill = PatternFill(start_color="2F5597", end_color="2F5597", fill_type="solid")
-header_font = Font(color="FFFFFF", bold=True)
-for c in ws[1]:
-    c.fill = header_fill
-    c.font = header_font
-widths = [10, 26, 14, 22, 20, 36]
-for i, w in enumerate(widths, start=1):
-    ws.column_dimensions[get_column_letter(i)].width = w
-ws.freeze_panes = "A2"
-
-# --- Sheet2: タグ別索引（駅ビル検索用） 1タグ1行に展開 ---
-ws2 = wb.create_sheet("タグ別索引")
-ws2.append(["タグ","店舗名","駅","施設名","フロア"])
-for c in ws2[1]:
-    c.fill = header_fill
-    c.font = header_font
-tag_rows = [
-    (tag, shop, station, building, floor)
-    for genre, shop, station, building, floor, tags in rows_tagged
-    for tag in tags
-]
-for tag, shop, station, building, floor in sorted(tag_rows, key=lambda r: (r[0], r[2])):
-    ws2.append([tag, shop, station, building, floor])
-for i, w in enumerate([14, 36, 10, 26, 14], start=1):
-    ws2.column_dimensions[get_column_letter(i)].width = w
-ws2.freeze_panes = "A2"
-
-# --- Sheet3: 駅ビル一覧（サマリー） ---
-ws3 = wb.create_sheet("駅ビル一覧")
-ws3.append(["駅","施設名","店舗数"])
-for c in ws3[1]:
-    c.fill = header_fill
-    c.font = header_font
-from collections import Counter
-cnt = Counter((r[2], r[3]) for r in rows)
-for (station, building), n in sorted(cnt.items()):
-    ws3.append([station, building, n])
-for i, w in enumerate([10, 26, 10], start=1):
-    ws3.column_dimensions[get_column_letter(i)].width = w
-
-wb.save("JREポイント完全データベース_統合版_v5.xlsx")
-print("saved xlsx, total rows:", len(rows))
 
 import json
 data = [
