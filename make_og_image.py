@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """OGP用画像（1200x630）を生成する"""
+import os
 from PIL import Image, ImageDraw, ImageFont
 
 W, H = 1200, 630
@@ -9,10 +10,32 @@ BG = (247, 248, 250)
 WHITE = (255, 255, 255)
 MUTED = (200, 212, 232)
 
-FONT_PATH = "/System/Library/Fonts/Hiragino Sans GB.ttc"
+# 日本語フォント。macOS では従来どおりヒラギノ、Linux では Noto Sans JP などを使う。
+# OG_FONT_PATH を指定すればそれを最優先する。
+FONT_CANDIDATES = [
+    os.environ.get("OG_FONT_PATH"),
+    "/System/Library/Fonts/Hiragino Sans GB.ttc",              # macOS
+    "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",  # Linux (fonts-noto-cjk)
+    "/usr/share/fonts/truetype/notosansjp/NotoSansJP.ttf",     # Noto Sans JP を手動配置した場合
+    "/usr/share/fonts/opentype/ipafont-gothic/ipag.ttf",       # Linux (fonts-ipafont-gothic)
+]
 
-def font(size, index=0):
-    return ImageFont.truetype(FONT_PATH, size, index=index)
+FONT_PATH = next((p for p in FONT_CANDIDATES if p and os.path.exists(p)), None)
+if FONT_PATH is None:
+    raise SystemExit(
+        "日本語フォントが見つかりません。OG_FONT_PATH で指定するか、"
+        "次のいずれかを配置してください:\n  " + "\n  ".join(p for p in FONT_CANDIDATES[1:])
+    )
+
+def font(size, index=0, weight=400):
+    f = ImageFont.truetype(FONT_PATH, size, index=index)
+    # 可変フォント（Noto Sans JP など）はデフォルトが極細のため、ウエイトを明示する
+    try:
+        if any(a["name"] == b"Weight" for a in f.get_variation_axes()):
+            f.set_variation_by_axes([weight])
+    except OSError:
+        pass  # 可変フォントでない場合
+    return f
 
 img = Image.new("RGB", (W, H), BG)
 draw = ImageDraw.Draw(img)
@@ -36,22 +59,22 @@ draw = ImageDraw.Draw(img)
 PAD = 72
 
 # ロゴ風バッジ
-badge_font = font(30)
+badge_font = font(30, weight=700)
 draw.rounded_rectangle([PAD, 64, PAD + 200, 64 + 54], radius=27, fill=WHITE)
 draw.text((PAD + 28, 64 + 11), "JRE CARD", font=badge_font, fill=ACCENT)
 
 # タイトル
-title_font = font(74)
+title_font = font(74, weight=600)
 draw.text((PAD, 170), "JRE優待店", font=title_font, fill=WHITE)
 draw.text((PAD, 260), "駅ビル タグ検索", font=title_font, fill=WHITE)
 
 # サブタイトル
-sub_font = font(34)
-draw.text((PAD, 372), "品川・大井町・川崎・横浜・有楽町・東京駅の店舗を", font=sub_font, fill=MUTED)
+sub_font = font(34, weight=400)
+draw.text((PAD, 372), "品川・目黒・大井町・川崎・横浜・有楽町・東京駅の店舗を", font=sub_font, fill=MUTED)
 draw.text((PAD, 416), "駅・施設・ジャンルとフリーワードで検索", font=sub_font, fill=MUTED)
 
 # タグ風チップを並べる
-chip_font = font(28)
+chip_font = font(28, weight=500)
 chips = ["衣料", "メガネ", "生活雑貨", "子供服", "レストラン", "コスメ"]
 x = PAD
 y = 492
@@ -67,4 +90,4 @@ for c in chips:
     x += chip_w + 14
 
 img.save("docs/og-image.png")
-print("saved docs/og-image.png", img.size)
+print("saved docs/og-image.png", img.size, "font:", FONT_PATH)
