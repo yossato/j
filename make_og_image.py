@@ -70,7 +70,7 @@ draw.text((PAD, 260), "駅ビル タグ検索", font=title_font, fill=WHITE)
 
 # サブタイトル
 sub_font = font(34, weight=400)
-draw.text((PAD, 372), "品川・目黒・大井町・川崎・横浜・有楽町・東京駅の店舗を", font=sub_font, fill=MUTED)
+draw.text((PAD, 372), "品川・目黒・大井町・川崎・横浜・藤沢・有楽町・東京駅の店舗を", font=sub_font, fill=MUTED)
 draw.text((PAD, 416), "駅・施設・ジャンルとフリーワードで検索", font=sub_font, fill=MUTED)
 
 # タグ風チップを並べる

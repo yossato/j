@@ -442,17 +442,6 @@
 "building": "エキュート品川",
 "floor": "",
 "tags": [
-"食品",
-"スーパー",
-"酒"
-],
-"shop": "セゾンファクトリー"
-},
-{
-"station": "品川",
-"building": "エキュート品川",
-"floor": "",
-"tags": [
 "花"
 ],
 "shop": "青山フラワーマーケット"
@@ -1174,6 +1163,666 @@
 "shop": "エキュート品川内 JRE POINTマーク対象ショップ"
 },
 {
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "B1F",
+"tags": [
+"食品"
+],
+"shop": "澤光青果"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "B1F",
+"tags": [
+"食品",
+"惣菜"
+],
+"shop": "魚力"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "B1F",
+"tags": [
+"食品",
+"惣菜"
+],
+"shop": "肉処たかぎ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"サービス"
+],
+"shop": "リペアショップ セピア"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "とらや"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "OGGI"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "赤坂柿山"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "御門屋"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "東京凮月堂"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "スープ ストック トーキョー"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "日本橋 千疋屋総本店"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "ユーハイム"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "廣尾瓢月堂"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "ア・ラ・カンパーニュ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "パティスリー モンシェール"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"花"
+],
+"shop": "WONDER FLOWER"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"カフェ"
+],
+"shop": "スターバックス コーヒー"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "ランディーズドーナツ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "2F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "ザ・ガーデン自由が丘"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "2F",
+"tags": [
+"ベーカリー"
+],
+"shop": "GONTRAN CHERRIER ARTISAN BOULANGER・PARIS"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "2F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "中華旬彩料理東方紅"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "2F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "とんかつまい泉"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "2F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "麻布あさひ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "2F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "ねり伝"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "2F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "新潟ゆのたに心亭"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "2F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "ナチュラルハウス"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "2F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "Mr.Chicken鶏飯店"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "2F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "RF1"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "2F",
+"tags": [
+"惣菜",
+"弁当"
+],
+"shop": "大徳寺さいき家"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "3F",
+"tags": [
+"靴"
+],
+"shop": "フィットフィット"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "3F",
+"tags": [
+"コスメ",
+"生活雑貨"
+],
+"shop": "マークスアンドウェブ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "3F",
+"tags": [
+"衣料"
+],
+"shop": "きもの やまと"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "3F",
+"tags": [
+"メガネ"
+],
+"shop": "Zoff"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "3F",
+"tags": [
+"コスメ"
+],
+"shop": "ミナミヤ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "3F",
+"tags": [
+"コスメ"
+],
+"shop": "スズハル堂"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "3F",
+"tags": [
+"生活雑貨",
+"ギフト"
+],
+"shop": "バースデイ・バー"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "3F",
+"tags": [
+"生活雑貨",
+"アクセサリー",
+"キッズ"
+],
+"shop": "スリーコインズ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "3F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "ラフィネ・プリュス"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "3F",
+"tags": [
+"バッグ",
+"生活雑貨"
+],
+"shop": "リュテス"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "3F",
+"tags": [
+"食品"
+],
+"shop": "カルディコーヒーファーム"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "3F",
+"tags": [
+"衣料",
+"靴",
+"バッグ"
+],
+"shop": "プラティーヌ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "4F",
+"tags": [
+"衣料"
+],
+"shop": "ビースリー"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "4F",
+"tags": [
+"衣料"
+],
+"shop": "アンフィ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "4F",
+"tags": [
+"時計"
+],
+"shop": "ザ・クロックハウス アラウンド"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "4F",
+"tags": [
+"サービス"
+],
+"shop": "はしだ眼科クリニック"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "4F",
+"tags": [
+"生活雑貨",
+"家具",
+"衣料"
+],
+"shop": "無印良品"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "4F",
+"tags": [
+"生活雑貨",
+"衣料"
+],
+"shop": "コレパン 〜日本の暮らし雑貨店"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "4F",
+"tags": [
+"衣料"
+],
+"shop": "靴下屋"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "4F",
+"tags": [
+"メガネ"
+],
+"shop": "コンタクトのアイシティ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "4F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "カフェ ド 銀座みゆき館"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "4F",
+"tags": [
+"アクセサリー"
+],
+"shop": "ベリテ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "4F",
+"tags": [
+"サービス"
+],
+"shop": "お直しコンシェルジュBig mama"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "4F",
+"tags": [
+"サービス"
+],
+"shop": "白洋舎"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "4F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "ネイルクイック"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "4F",
+"tags": [
+"衣料"
+],
+"shop": "ハーモニカ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "5F",
+"tags": [
+"衣料"
+],
+"shop": "ユニクロ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒1",
+"floor": "5F",
+"tags": [
+"書籍",
+"文具",
+"生活雑貨"
+],
+"shop": "有隣堂"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒2",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "ダロワイヨ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒2",
+"floor": "1F",
+"tags": [
+"スイーツ"
+],
+"shop": "ゴディバ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒2",
+"floor": "1F",
+"tags": [
+"レストラン"
+],
+"shop": "回し寿司 活"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒2",
+"floor": "1F",
+"tags": [
+"コンビニ"
+],
+"shop": "ファミリーマート アトレ目黒店"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒2",
+"floor": "1F",
+"tags": [
+"花"
+],
+"shop": "HIBIYA-KADAN STYLE"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒2",
+"floor": "1F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "成城石井"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒2",
+"floor": "2F",
+"tags": [
+"レストラン"
+],
+"shop": "バルマルシェコダマ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒2",
+"floor": "2F",
+"tags": [
+"サービス"
+],
+"shop": "あいあーる歯科目黒駅医院"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒2",
+"floor": "2F",
+"tags": [
+"サービス"
+],
+"shop": "目黒学園カルチャースクール"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒2",
+"floor": "2F",
+"tags": [
+"レストラン"
+],
+"shop": "蕎菜"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒2",
+"floor": "2F",
+"tags": [
+"レストラン"
+],
+"shop": "トゥ・ザ・ハーブズ"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒2",
+"floor": "2F",
+"tags": [
+"ベーカリー",
+"カフェ"
+],
+"shop": "タリーズコーヒー"
+},
+{
+"station": "目黒",
+"building": "アトレ目黒2",
+"floor": "2F",
+"tags": [
+"リラクゼーション"
+],
+"shop": "ReCORE鍼灸院｜接骨院"
+},
+{
 "station": "川崎",
 "building": "アトレ川崎",
 "floor": "B1F",
@@ -1510,16 +2159,6 @@
 "弁当"
 ],
 "shop": "のり弁・UOHIDE"
-},
-{
-"station": "川崎",
-"building": "アトレ川崎",
-"floor": "B1F",
-"tags": [
-"惣菜",
-"弁当"
-],
-"shop": "K-SOZAI"
 },
 {
 "station": "川崎",
@@ -2269,16 +2908,6 @@
 "building": "アトレ川崎",
 "floor": "3F",
 "tags": [
-"靴",
-"バッグ"
-],
-"shop": "ドロワーズ マイ フェヴァリット"
-},
-{
-"station": "川崎",
-"building": "アトレ川崎",
-"floor": "3F",
-"tags": [
 "ベーカリー",
 "カフェ"
 ],
@@ -2497,6 +3126,17 @@
 "衣料"
 ],
 "shop": "リサマリ"
+},
+{
+"station": "川崎",
+"building": "アトレ川崎",
+"floor": "3F",
+"tags": [
+"食品",
+"スーパー",
+"酒"
+],
+"shop": "アコメヤ トウキョウ"
 },
 {
 "station": "川崎",
@@ -4734,25 +5374,6 @@
 },
 {
 "station": "横浜",
-"building": "ルミネ横浜",
-"floor": "9F",
-"tags": [
-"レストラン"
-],
-"shop": "the Rooftop club"
-},
-{
-"station": "横浜",
-"building": "ニュウマン横浜",
-"floor": "1F",
-"tags": [
-"靴",
-"バッグ"
-],
-"shop": "Tiffany & Co."
-},
-{
-"station": "横浜",
 "building": "ニュウマン横浜",
 "floor": "1F",
 "tags": [
@@ -5946,15 +6567,6 @@
 "tags": [
 "レストラン"
 ],
-"shop": "貝出汁粥 鬼貝"
-},
-{
-"station": "横浜",
-"building": "エキュートエディション横浜",
-"floor": "",
-"tags": [
-"レストラン"
-],
 "shop": "大衆酒場2.0 とぽす"
 },
 {
@@ -5964,7 +6576,7 @@
 "tags": [
 "レストラン"
 ],
-"shop": "チョイット・コンセプト"
+"shop": "マロリーポークステーキ"
 },
 {
 "station": "横浜",
@@ -6023,7 +6635,7 @@
 "tags": [
 "スイーツ"
 ],
-"shop": "ありあけ本館 HARBOUR'S MOON"
+"shop": "横濱ハーバー"
 },
 {
 "station": "横浜",
@@ -7286,7 +7898,7 @@
 "tags": [
 "レストラン"
 ],
-"shop": "サルヴァトーレ クオモ ＆バール"
+"shop": "Tavernetta Salvatore"
 },
 {
 "station": "大井町",
@@ -8902,6 +9514,169 @@
 {
 "station": "東京",
 "building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "Ivorish MAISON(アイボリッシュ メゾン)"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "Marche Bloom(マルシェブルーム)"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "Butter Milk Lab."
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "ÉRIE T.(エリートーキョー)"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "The Little BAKERY Tokyo"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ",
+"生活雑貨"
+],
+"shop": "東京喫茶メリー"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "Chocolaterie & Pâtisserie ROND-POINT souvenir(ショコラトリー パティスリー ロンポワン スヴニール)"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "HENRI CHARPENTIER Atelier Tokyo(アンリ・シャルパンティエ アトリエ トウキョウ)"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "たまご専門 本巣ヱ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "バター菓子専科 虎子堂"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "KIJITORA"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "鳴門金時本舗 栗尾商店 芋乃実"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "A Bite Coffee"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "neu by sarkara(ノイ バイ サルカラ)"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "Caffarel -Il Gianduia-(カファレル -イル ジャンドゥーヤ-)"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"カフェ"
+],
+"shop": "フォートナム・アンド・メイソン"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "ヒトツブカンロ"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"スイーツ"
+],
+"shop": "京橋千疋屋 旬感"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
 "floor": "B1：銀の鈴エリア",
 "tags": [
 "スイーツ"
@@ -9361,6 +10136,26 @@
 {
 "station": "東京",
 "building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"レストラン"
+],
+"shop": "TOKYO PASTA STATION"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"ベーカリー",
+"カフェ",
+"レストラン"
+],
+"shop": "THE CITY BAKERY + Bar & Grill"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
 "floor": "B1：スクエア ゼロエリア 改札外",
 "tags": [
 "レストラン"
@@ -9622,7 +10417,7 @@
 {
 "station": "東京",
 "building": "グランスタ東京",
-"floor": "B1：丸の内坂エリア",
+"floor": "B1：地下 丸の内改札内エリア",
 "tags": [
 "カフェ"
 ],
@@ -9658,7 +10453,65 @@
 {
 "station": "東京",
 "building": "グランスタ東京",
-"floor": "B1：丸の内坂エリア",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"生活雑貨"
+],
+"shop": "ラブラリー バイ フェイラー"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"生活雑貨"
+],
+"shop": "Spiral Rendezvous Store(スパイラルランデヴーストア)"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"生活雑貨",
+"食品"
+],
+"shop": "中川政七商店"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"文具",
+"生活雑貨"
+],
+"shop": "ほぼ日手帳ストア"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"バッグ",
+"生活雑貨"
+],
+"shop": "INDEN・YA×JIZAING(インデンヤ バイ ジザイン)"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
+"tags": [
+"生活雑貨",
+"ギフト"
+],
+"shop": "かまわぬ GIFT STAND"
+},
+{
+"station": "東京",
+"building": "グランスタ東京",
+"floor": "B1：地下 丸の内改札内エリア",
 "tags": [
 "衣料"
 ],
@@ -9694,7 +10547,7 @@
 {
 "station": "東京",
 "building": "グランスタ東京",
-"floor": "B1：丸の内坂エリア",
+"floor": "B1：地下 丸の内改札内エリア",
 "tags": [
 "コスメ"
 ],
@@ -9712,7 +10565,7 @@
 {
 "station": "東京",
 "building": "グランスタ東京",
-"floor": "B1：丸の内坂エリア",
+"floor": "B1：地下 丸の内改札内エリア",
 "tags": [
 "生活雑貨"
 ],
@@ -9730,7 +10583,7 @@
 {
 "station": "東京",
 "building": "グランスタ東京",
-"floor": "B1：丸の内坂エリア",
+"floor": "B1：地下 丸の内改札内エリア",
 "tags": [
 "サービス"
 ],
@@ -9775,7 +10628,7 @@
 {
 "station": "東京",
 "building": "グランスタ東京",
-"floor": "B1：丸の内坂エリア",
+"floor": "B1：地下 丸の内改札内エリア",
 "tags": [
 "コンビニ"
 ],
@@ -10701,7 +11554,7 @@
 {
 "station": "東京",
 "building": "グランスタ八重洲",
-"floor": "B1：八重洲 改札外",
+"floor": "B1 改札外",
 "tags": [
 "リラクゼーション"
 ],
@@ -10943,233 +11796,57 @@
 "shop": "ファミマ!!"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "B1F",
-"tags": [
-"食品"
-],
-"shop": "澤光青果"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "B1F",
-"tags": [
-"食品",
-"惣菜"
-],
-"shop": "魚力"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "B1F",
-"tags": [
-"食品",
-"惣菜"
-],
-"shop": "肉処たかぎ"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
+"station": "藤沢",
+"building": "ルミネ藤沢",
 "floor": "1F",
 "tags": [
 "サービス"
 ],
-"shop": "リペアショップ セピア"
+"shop": "三井住友銀行 藤沢支店"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "1F",
-"tags": [
-"スイーツ"
-],
-"shop": "とらや"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "1F",
-"tags": [
-"スイーツ"
-],
-"shop": "OGGI"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "1F",
-"tags": [
-"スイーツ"
-],
-"shop": "赤坂柿山"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "1F",
-"tags": [
-"スイーツ"
-],
-"shop": "御門屋"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "1F",
-"tags": [
-"スイーツ"
-],
-"shop": "東京凮月堂"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "1F",
-"tags": [
-"レストラン"
-],
-"shop": "スープ ストック トーキョー"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "1F",
-"tags": [
-"スイーツ"
-],
-"shop": "日本橋 千疋屋総本店"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "1F",
-"tags": [
-"スイーツ"
-],
-"shop": "ユーハイム"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "1F",
-"tags": [
-"スイーツ"
-],
-"shop": "廣尾瓢月堂"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "1F",
-"tags": [
-"スイーツ"
-],
-"shop": "ア・ラ・カンパーニュ"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "1F",
-"tags": [
-"スイーツ"
-],
-"shop": "パティスリー モンシェール"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
+"station": "藤沢",
+"building": "ルミネ藤沢",
 "floor": "1F",
 "tags": [
 "花"
 ],
-"shop": "WONDER FLOWER"
+"shop": "Flower Shop Maruyama"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "1F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "3F",
 "tags": [
+"ベーカリー",
 "カフェ"
 ],
-"shop": "スターバックス コーヒー"
+"shop": "スターバックス"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "1F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "3F",
 "tags": [
-"スイーツ"
+"ベーカリー",
+"カフェ"
 ],
-"shop": "ランディーズドーナツ"
+"shop": "神戸屋キッチン"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "2F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "3F",
 "tags": [
 "食品",
-"スーパー",
-"酒"
+"スーパー"
 ],
-"shop": "ザ・ガーデン自由が丘"
+"shop": "クイーンズ伊勢丹"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "2F",
-"tags": [
-"ベーカリー"
-],
-"shop": "GONTRAN CHERRIER ARTISAN BOULANGER・PARIS"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "2F",
-"tags": [
-"惣菜",
-"弁当"
-],
-"shop": "中華旬彩料理東方紅"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "2F",
-"tags": [
-"惣菜",
-"弁当"
-],
-"shop": "とんかつまい泉"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "2F",
-"tags": [
-"惣菜",
-"弁当"
-],
-"shop": "麻布あさひ"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "2F",
-"tags": [
-"惣菜",
-"弁当"
-],
-"shop": "ねり伝"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "2F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "3F",
 "tags": [
 "惣菜",
 "弁当"
@@ -11177,429 +11854,316 @@
 "shop": "新潟ゆのたに心亭"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "2F",
-"tags": [
-"食品",
-"スーパー",
-"酒"
-],
-"shop": "ナチュラルハウス"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "2F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "3F",
 "tags": [
 "惣菜",
 "弁当"
 ],
-"shop": "Mr.Chicken鶏飯店"
+"shop": "崎陽軒"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "2F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "3F",
+"tags": [
+"スイーツ"
+],
+"shop": "銀座あけぼの"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "3F",
+"tags": [
+"スイーツ"
+],
+"shop": "湘南クリエイティブ・ガトー 葦"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "3F",
 "tags": [
 "惣菜",
 "弁当"
 ],
-"shop": "RF1"
+"shop": "日本一"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "2F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "3F",
+"tags": [
+"レストラン"
+],
+"shop": "とんかつ 新宿さぼてん"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "3F",
 "tags": [
 "惣菜",
 "弁当"
 ],
-"shop": "大徳寺さいき家"
+"shop": "京樽"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
+"station": "藤沢",
+"building": "ルミネ藤沢",
 "floor": "3F",
 "tags": [
-"靴"
+"惣菜",
+"弁当"
 ],
-"shop": "フィットフィット"
+"shop": "グリーン・グルメ"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
+"station": "藤沢",
+"building": "ルミネ藤沢",
 "floor": "3F",
 "tags": [
-"コスメ",
-"生活雑貨"
+"スイーツ"
 ],
-"shop": "マークスアンドウェブ"
+"shop": "ラ・メゾン アンソレイユターブル パティスリー"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "3F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "4F",
 "tags": [
-"衣料"
+"リラクゼーション"
 ],
-"shop": "きもの やまと"
+"shop": "Re.Ra.Ku"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "3F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "4F",
 "tags": [
 "メガネ"
 ],
 "shop": "Zoff"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "3F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "4F",
 "tags": [
 "コスメ"
 ],
-"shop": "ミナミヤ"
+"shop": "ファンケル"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "3F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "4F",
 "tags": [
-"コスメ"
-],
-"shop": "スズハル堂"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "3F",
-"tags": [
-"生活雑貨",
-"ギフト"
-],
-"shop": "バースデイ・バー"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "3F",
-"tags": [
-"生活雑貨",
-"アクセサリー",
-"キッズ"
-],
-"shop": "スリーコインズ"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "3F",
-"tags": [
-"リラクゼーション"
-],
-"shop": "ラフィネ・プリュス"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "3F",
-"tags": [
-"バッグ",
 "生活雑貨"
 ],
-"shop": "リュテス"
+"shop": "吉祥寺菊屋"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "3F",
-"tags": [
-"食品"
-],
-"shop": "カルディコーヒーファーム"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "3F",
-"tags": [
-"衣料",
-"靴",
-"バッグ"
-],
-"shop": "プラティーヌ"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
+"station": "藤沢",
+"building": "ルミネ藤沢",
 "floor": "4F",
 "tags": [
 "衣料"
 ],
-"shop": "ビースリー"
+"shop": "ROPÉ PICNIC"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
+"station": "藤沢",
+"building": "ルミネ藤沢",
 "floor": "4F",
 "tags": [
-"衣料"
+"コスメ"
 ],
-"shop": "アンフィ"
+"shop": "shop in"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
+"station": "藤沢",
+"building": "ルミネ藤沢",
 "floor": "4F",
 "tags": [
-"時計"
+"文具",
+"生活雑貨"
 ],
-"shop": "ザ・クロックハウス アラウンド"
+"shop": "世界堂"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "4F",
-"tags": [
-"サービス"
-],
-"shop": "はしだ眼科クリニック"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "4F",
-"tags": [
-"生活雑貨",
-"家具",
-"衣料"
-],
-"shop": "無印良品"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "4F",
-"tags": [
-"生活雑貨",
-"衣料"
-],
-"shop": "コレパン 〜日本の暮らし雑貨店"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "4F",
-"tags": [
-"衣料"
-],
-"shop": "靴下屋"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "4F",
-"tags": [
-"メガネ"
-],
-"shop": "コンタクトのアイシティ"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "4F",
-"tags": [
-"ベーカリー",
-"カフェ"
-],
-"shop": "カフェ ド 銀座みゆき館"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "4F",
-"tags": [
-"アクセサリー"
-],
-"shop": "ベリテ"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "4F",
-"tags": [
-"サービス"
-],
-"shop": "お直しコンシェルジュBig mama"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "4F",
-"tags": [
-"サービス"
-],
-"shop": "白洋舎"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "4F",
-"tags": [
-"リラクゼーション"
-],
-"shop": "ネイルクイック"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "4F",
-"tags": [
-"衣料"
-],
-"shop": "ハーモニカ"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒1",
+"station": "藤沢",
+"building": "ルミネ藤沢",
 "floor": "5F",
 "tags": [
-"衣料"
+"衣料",
+"子供服"
 ],
 "shop": "ユニクロ"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒1",
-"floor": "5F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "6F",
 "tags": [
-"書籍",
-"文具",
-"生活雑貨"
+"靴"
 ],
-"shop": "有隣堂"
+"shop": "ABC-MART プレミアステージ"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒2",
-"floor": "1F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "6F",
 "tags": [
-"スイーツ"
+"衣料",
+"子供服"
 ],
-"shop": "ダロワイヨ"
+"shop": "ユニクロ"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒2",
-"floor": "1F",
-"tags": [
-"スイーツ"
-],
-"shop": "ゴディバ"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒2",
-"floor": "1F",
-"tags": [
-"レストラン"
-],
-"shop": "回し寿司 活"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒2",
-"floor": "1F",
-"tags": [
-"コンビニ"
-],
-"shop": "ファミリーマート アトレ目黒店"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒2",
-"floor": "1F",
-"tags": [
-"花"
-],
-"shop": "HIBIYA-KADAN STYLE"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒2",
-"floor": "1F",
-"tags": [
-"食品",
-"スーパー",
-"酒"
-],
-"shop": "成城石井"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒2",
-"floor": "2F",
-"tags": [
-"レストラン"
-],
-"shop": "バルマルシェコダマ"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒2",
-"floor": "2F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "7F",
 "tags": [
 "サービス"
 ],
-"shop": "あいあーる歯科目黒駅医院"
+"shop": "さとう皮ふ科クリニック"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒2",
-"floor": "2F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "7F",
 "tags": [
 "サービス"
 ],
-"shop": "目黒学園カルチャースクール"
+"shop": "シーエス薬局"
 },
 {
-"station": "目黒",
-"building": "アトレ目黒2",
-"floor": "2F",
-"tags": [
-"レストラン"
-],
-"shop": "蕎菜"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒2",
-"floor": "2F",
-"tags": [
-"レストラン"
-],
-"shop": "トゥ・ザ・ハーブズ"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒2",
-"floor": "2F",
-"tags": [
-"ベーカリー",
-"カフェ"
-],
-"shop": "タリーズコーヒー"
-},
-{
-"station": "目黒",
-"building": "アトレ目黒2",
-"floor": "2F",
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "7F",
 "tags": [
 "リラクゼーション"
 ],
-"shop": "ReCORE鍼灸院｜接骨院"
+"shop": "TBC"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "7F",
+"tags": [
+"メガネ"
+],
+"shop": "ルミネコンタクト"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "7F",
+"tags": [
+"サービス"
+],
+"shop": "ルミネ藤沢はたの眼科"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "7F",
+"tags": [
+"サービス"
+],
+"shop": "ルミネ藤沢歯科"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "8F",
+"tags": [
+"サービス"
+],
+"shop": "湘南矯正歯科クリニック"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "8F",
+"tags": [
+"サービス"
+],
+"shop": "日能研"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "8F",
+"tags": [
+"サービス"
+],
+"shop": "大京穴吹不動産"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "9F",
+"tags": [
+"サービス"
+],
+"shop": "駅前留学NOVA(English Lab)"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "9F",
+"tags": [
+"サービス"
+],
+"shop": "Gabaマンツーマン英会話(English Lab)"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "9F",
+"tags": [
+"サービス"
+],
+"shop": "湘南ゼミナール 高等部"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "9F",
+"tags": [
+"サービス"
+],
+"shop": "湘南ゼミナール 個別指導コース"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "9F",
+"tags": [
+"サービス"
+],
+"shop": "湘南ゼミナール 公立中高一貫コース"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "9F",
+"tags": [
+"サービス"
+],
+"shop": "湘南ゼミナール 総合進学コース"
+},
+{
+"station": "藤沢",
+"building": "ルミネ藤沢",
+"floor": "9F",
+"tags": [
+"サービス"
+],
+"shop": "湘南ゼミナール 横浜翠嵐Vコース"
 }
 ]
